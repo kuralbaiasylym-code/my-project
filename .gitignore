@@ -1,0 +1,9 @@
+# Windows жүйесінің жасырын файлдары
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Бағдарламалау орталарының уақытша папкалары
+.vscode/
+.idea/
+*.log 
