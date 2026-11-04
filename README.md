@@ -1,1 +1,1 @@
-"Шеш?лген та?ырып: main ж?не feature-title б?р?кт?р?лд?" 
+"Resolved conflict: main and feature-title merged successfully" 
