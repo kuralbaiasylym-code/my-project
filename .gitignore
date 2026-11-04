@@ -6,4 +6,5 @@ Desktop.ini
 # Бағдарламалау орталарының уақытша папкалары
 .vscode/
 .idea/
-*.log 
+*.log
+.env
